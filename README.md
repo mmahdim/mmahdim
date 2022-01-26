@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahdi,
 - 👀 I’m interested in Electronics Engineering and Biomedical Engineering
 - 🌱 I’m currently studying Integrated Circuit Design at University of Tehran
-My linkedin:
+- My linkedin:
 https://www.linkedin.com/in/mmahdim0/
 
 
