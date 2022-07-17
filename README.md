@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Integrated Circuit Design at University of Tehran
 - My linkedin:
 https://www.linkedin.com/in/mmahdim0/
+- [My YouTube Channel](https://www.youtube.com/channel/UCc-__WUld3Fzvgp1aIhZvdA)
 
 
 <!---
