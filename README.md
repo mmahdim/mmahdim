@@ -1,6 +1,6 @@
 - I’m Mahdi,
 - I’m interested in Electronics Engineering and Biomedical Engineering
-- I’m currently studying Integrated Circuit Design at University of Tehran
+- I’m currently studying Integrated Circuit Design at the University of Tehran
 - My linkedin:
 https://www.linkedin.com/in/mmahdim0/
 - [My YouTube Channel](https://www.youtube.com/channel/UCc-__WUld3Fzvgp1aIhZvdA)
